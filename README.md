@@ -1,10 +1,9 @@
-## Hi there 👋
-# 💫 About Me:
+# About Me:
 Hi! My name is Roman.
 I'm currently working in frontend as senior developer.
 Have over a 8 years of expirence.
 
-# 💻 Tech Stack:
+# Tech Stack:
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,7 +70,7 @@ Have over a 8 years of expirence.
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSword&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
